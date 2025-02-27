@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analýza Ethernetového kabelu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Analýza konstrukce Ethernetového kabelu</h1>
+        <p>Vypracoval: [Tvé jméno] | Datum: [Doplň datum]</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#uvod">Úvod</a></li>
+            <li><a href="#rozebrani">Rozebrání kabelu</a></li>
+            <li><a href="#zkoumani">Zkoumání konstrukce</a></li>
+            <li><a href="#rychlost">Rychlost přenosu</a></li>
+            <li><a href="#problemy">Možné problémy</a></li>
+            <li><a href="#zlepseni">Návrhy na zlepšení</a></li>
+            <li><a href="#zaver">Závěr</a></li>
+        </ul>
+    </nav>
+
+    <section id="uvod">
+        <h2>1. Úvod</h2>
+        <p>Tato stránka se zaměřuje na analýzu konstrukce Ethernetového kabelu (např. Cat5e, Cat6, Cat7) a jeho vliv na přenosovou rychlost.</p>
+    </section>
+
+    <section id="rozebrani">
+        <h2>2. Rozebrání kabelu</h2>
+        <p>Ethernetový kabel obsahuje 8 vodičů uspořádaných do 4 kroucených párů. Každý pár je pečlivě zkroucen pro minimalizaci rušení.</p>
+    </section>
+
+    <section id="zkoumani">
+        <h2>3. Zkoumání konstrukce</h2>
+        <ul>
+            <li><strong>Počet vodičů:</strong> 8</li>
+            <li><strong>Materiály:</strong> PVC, PE, stínění (u STP kabelů)</li>
+            <li><strong>Fyzická separace:</strong> Existuje u stíněných variant</li>
+        </ul>
+    </section>
+
+    <section id="rychlost">
+        <h2>4. Vztah k rychlosti přenosu dat</h2>
+        <p>Vyšší kategorie kabelů umožňují vyšší přenosové rychlosti (až 40 Gbps u Cat8) díky lepší konstrukci a stínění.</p>
+    </section>
+
+    <section id="problemy">
+        <h2>5. Možné problémy</h2>
+        <ul>
+            <li>Levné materiály snižují výkon</li>
+            <li>Špatná instalace zvyšuje útlum</li>
+            <li>Použití starších kabelů omezuje rychlost</li>
+        </ul>
+    </section>
+
+    <section id="zlepseni">
+        <h2>6. Návrhy na zlepšení</h2>
+        <p>Pro optimální výkon doporučujeme používat Cat6a nebo vyšší, správné zakončení kabelů a minimalizaci rušení.</p>
+    </section>
+
+    <section id="zaver">
+        <h2>7. Závěr</h2>
+        <p>Ethernetový kabel je klíčový prvek sítí, jeho konstrukce ovlivňuje rychlost a spolehlivost přenosu dat.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 [Tvé jméno]. Všechna práva vyhrazena.</p>
+    </footer>
+</body>
+</html>
